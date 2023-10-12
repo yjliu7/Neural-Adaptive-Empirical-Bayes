@@ -9,4 +9,4 @@ First install a proper version of PyTorch following the
 
 ## Running Examples
 
-The code files for the numerical experiments presented in the article are provided in `experiments`. Simply run the Python files in order in each subdirectory. The generated plots used by the article are also provided in `results`.
+The code files for the numerical experiments presented in the article are provided in `experiments`. Simply run the Python files in order in each subdirectory. The generated plots used by the article are also provided.
